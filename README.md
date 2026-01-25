@@ -30,8 +30,8 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 
       git clone https://github.com/zahid53402/ZAHID_KING.git
       
-- `cd autophisher`
-- `bash autophisher.sh`
+- `cd ZAHID_KING`
+- `bash ZAHIDKING.sh`
 
 ### Android Termux App
 
@@ -43,8 +43,8 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
       git clone https://github.com/zahid53402/ZAHID_KING.git
       
 - `ls`
-- `cd autophisher`
-- `bash autophisher.sh`
+- `cd ZAHID_KING`
+- `bash ZAHIDKING.sh`
 
 # Licence
 
