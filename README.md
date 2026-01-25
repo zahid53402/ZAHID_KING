@@ -1,6 +1,6 @@
 # AutoPhisher
 
-![](https://github.com/CodingRanjith/autophisher/blob/main/crkgithub/logo.jpg)
+![](https://github.com/zahid53402/ZAHID_KING/blob/main/Zahid%20king%20%F0%9F%91%91/Screenshot_20260125-161925%20(1).png)
 
    ## An automated Social Media phishing toolkit. 
    This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! 
