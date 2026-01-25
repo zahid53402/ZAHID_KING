@@ -35,7 +35,7 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 
 ### Android Termux App
 
-![](https://github.com/CodingRanjith/autophisher/blob/main/crkgithub/android.jpg)
+![](https://github.com/zahid53402/ZAHID_KING/blob/main/Zahid%20king%20%F0%9F%91%91/Screenshot_20260125-161943%20(1).png)
 
 - `apt upgrade`
 - `apt install git`
