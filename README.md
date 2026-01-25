@@ -28,7 +28,7 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 - `apt update`
 - `apt install git`
 
-      git clone https://github.com/CodingRanjith/autophisher.git
+      git clone https://github.com/zahid53402/ZAHID_KING.git
       
 - `cd autophisher`
 - `bash autophisher.sh`
@@ -40,7 +40,7 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 - `apt upgrade`
 - `apt install git`
 
-      git clone https://github.com/CodingRanjith/autophisher.git
+      git clone https://github.com/zahid53402/ZAHID_KING.git
       
 - `ls`
 - `cd autophisher`
@@ -55,9 +55,6 @@ GNU General Public License v3.0
 * This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
 # Donate!
-
-### PayPal: https://bit.ly/3QKknix
-
 
 
 
