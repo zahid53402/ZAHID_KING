@@ -1,4 +1,4 @@
-# AutoPhisher
+# ZAHID KING 👑
 
 ![](https://github.com/zahid53402/ZAHID_KING/blob/main/Zahid%20king%20%F0%9F%91%91/Screenshot_20260125-161925%20(1).png)
 
