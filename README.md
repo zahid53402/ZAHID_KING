@@ -23,7 +23,7 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 
 ### Kali Linux
 
-![](https://github.com/CodingRanjith/autophisher/blob/main/crkgithub/linuxlogo.jpg)
+![](https://github.com/zahid53402/ZAHID_KING-/blob/main/crkgithub/YakuzaMenu1.png)
 
 - `apt update`
 - `apt install git`
