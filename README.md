@@ -28,7 +28,8 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 - `apt update`
 - `apt install git`
 
-      git clone https://github.com/zahid53402/ZAHID_KING.git
+    - `pkg install git`
+    - ` git clone https://github.com/zahid53402/ZAHID_KING.git`
       
 - `cd ZAHID_KING`
 - `bash ZAHIDKING.sh`
